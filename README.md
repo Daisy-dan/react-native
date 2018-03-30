@@ -1,5 +1,8 @@
 # react-native demo
 
+
+https://reactnative.cn/docs/0.42/getting-started.html
+
 安装
 必需的软件
 Homebrew
